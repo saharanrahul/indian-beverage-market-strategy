@@ -2,7 +2,7 @@
 
 This project presents a strategic, data-driven analysis of the **Indian beverage market**, focusing on pricing structures, distribution systems, consumer segmentation, branding patterns, and marketing strategies. The study identifies key industry trends, competitive dynamics, market gaps, and strategic opportunities for improved market capture and brand positioning.
 
----
+
 
 ## **📌 Key Objectives**
 
@@ -13,7 +13,7 @@ This project presents a strategic, data-driven analysis of the **Indian beverage
 * Compare marketing strategies across the beverage industry  
 * Identify market gaps, opportunities, and strategic improvements  
 
----
+
 
 ## **📊 Insights Generated**
 
@@ -23,7 +23,7 @@ This project presents a strategic, data-driven analysis of the **Indian beverage
 * Cost–benefit insights for low-price beverage positioning  
 * Growth opportunity mapping for new or existing beverage brands  
 
----
+
 
 ## **🛠️ Tools & Methods Used**
 
@@ -34,7 +34,7 @@ This project presents a strategic, data-driven analysis of the **Indian beverage
 * Consumer behaviour insights  
 * Pricing & segmentation analysis  
 
----
+
 
 ## **🚀 Outcomes**
 
@@ -43,7 +43,7 @@ This project presents a strategic, data-driven analysis of the **Indian beverage
 * Optimized positioning strategies for competitive advantage  
 * Holistic understanding of beverage industry dynamics in India  
 
----
+
 
 ## **📁 Project Structure**
 
@@ -54,9 +54,9 @@ This project presents a strategic, data-driven analysis of the **Indian beverage
 README.md            → Project summary and documentation  
 ```
 
----
+
 
 ## **📧 Contact**
 
-**Author:** Rahul Saharan  
+ 
 **LinkedIn:** https://linkedin.com/in/saharan-rahul  
